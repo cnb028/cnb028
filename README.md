@@ -2,9 +2,9 @@
 **cnb028/cnb028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Howdy Everyone!
+# 😄Howdy Everyone!😄
 
-😄My name is Christine, and I'm a junior Software Engineer and Web Developer!😄
+My name is Christine, and I'm a junior Software Engineer and Web Developer!
 
 I'm always open to new ideas, willing to learn, and am passionate about using tech to bridge the divide between humans of different backgrounds!
 
