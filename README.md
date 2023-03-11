@@ -17,18 +17,7 @@ I was born and raised in Killeen, TX. I'm currently a couple of Semesters away f
 
 
 ## 🔭Known Languages🔭
-|Language|Year Introduced|
-|---|---|
-|HTML|2013|
-|CSS|2013|
-|C#|2014|
-|JavaScript|2014|
-|Python|2014|
-|C++|2017|
-|Java|2019|
-|MySQL|2020|
-|PHP|2022|
-|ASP.Net|2023|
+HTML,CSS,C#,JavaScript,Python,C++,Java,MySQL,PHP,ASP.Net
 
 
 
