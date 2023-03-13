@@ -17,7 +17,16 @@ I was born and raised in Killeen, TX. I'm currently a couple of Semesters away f
 
 
 ## 🔭Known Languages🔭
-HTML,CSS,C#,JavaScript,Python,C++,Java,MySQL,PHP,ASP.Net
+- HTML
+- CSS 
+- C#
+- JavaScript
+- Python
+- C++
+- Java
+- MySQL
+- PHP
+- ASP.Net
 
 
 
